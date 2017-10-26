@@ -1,0 +1,5 @@
+E:\winFrom项目\excel\test\test\bin\Release\test.exe.config
+E:\winFrom项目\excel\test\test\obj\Release\Interop.Excel.dll
+E:\winFrom项目\excel\test\test\obj\Release\Interop.Office.dll
+E:\winFrom项目\excel\test\test\obj\Release\Interop.VBIDE.dll
+E:\winFrom项目\excel\test\test\obj\Release\test.csproj.ResolveComReference.cache
